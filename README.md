@@ -3,8 +3,8 @@
 <div>
   <a href="https://github.com/joaomrsouza">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=joaomrsouza&count_private=true&show_icons=true&theme=midnight-purple&locale=pt-br&include_all_commits=true"/>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrsouza&layout=compact&count_private=true&show_icons=true&theme=midnight-purple&locale=pt-br&include_all_commits=true"/>
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomrsouza&theme=midnight-purple"/> -->
+<!--     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrsouza&layout=compact&count_private=true&show_icons=true&theme=midnight-purple&locale=pt-br&include_all_commits=true"/> -->
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaomrsouza&theme=midnight-purple"/>
   </a>
 </div>
 
@@ -16,7 +16,7 @@
     <img align="center" alt="joaomrsouza-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-<img align="right" alt="joaomrsouza-avatar" height="150em" src="https://cdn.discordapp.com/attachments/319957680313860100/879398480643231834/Avatar.gif">
+<!-- <img align="right" alt="joaomrsouza-avatar" height="150em" src="https://cdn.discordapp.com/attachments/319957680313860100/879398480643231834/Avatar.gif"> -->
 
 #
 #### Trabalho atualmente com:
